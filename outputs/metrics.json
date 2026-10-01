@@ -1,0 +1,19 @@
+{
+ "val": {
+  "category_acc": 0.85,
+  "category_f1": 0.851,
+  "priority_acc": 0.586,
+  "priority_f1": 0.599
+ },
+ "test": {
+  "category_acc": 0.874,
+  "category_f1": 0.873,
+  "priority_acc": 0.654,
+  "priority_f1": 0.662
+ },
+ "anomaly_test": {
+  "flagged_pct": 2.8,
+  "recall_on_synthetic_outliers": 0.524,
+  "precision": 0.5
+ }
+}

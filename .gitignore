@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Large/generated files
+*.h5
+*.keras
+*.pkl
+
+# Streamlit
+.streamlit/secrets.toml
